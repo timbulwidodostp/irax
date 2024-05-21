@@ -1,6 +1,8 @@
 # irax
 Isotonic regression analysis (extended) Use irax With STATA 18
 
+https://www.youtube.com/watch?v=zCHwi_Vvr14
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
